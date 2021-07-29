@@ -1,3 +1,4 @@
 ﻿# Cistom css for tradingview
 
-![]result.png
+## Output:
+![](result.png)
